@@ -34,7 +34,7 @@ button {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 70px;
     display: flex;
-    align-items: ;
+    align-items:center;
     justify-content: center;
     opacity: 40%;
     color: black;
@@ -48,4 +48,14 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.picture {
+    width: 100px;
+    height: 100px;
+}
+
+input {
+   width: 300px;
+   height: 30px;
 }
