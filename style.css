@@ -26,7 +26,9 @@ p {
 }
 
 button {
+    border-color: blueviolet;
     color: green;
+    height: 30px;
 }
 
 .part2 {
@@ -56,6 +58,13 @@ button {
 }
 
 input {
-   width: 300px;
-   height: 30px;
+    background-color: orange;
+    border-color: blueviolet;
+    font-size: 20px;
+    width: 300px;
+    height: 30px;
+}
+
+.Hot {
+    margin: 24px, 20px;
 }
