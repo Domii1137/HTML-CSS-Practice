@@ -31,6 +31,32 @@ li {
     color: aqua;
 }
 
+.section3 {
+    font-size: 80px;
+    color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section4 {
+
+}
+
+.hero {
+    color: green;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 80px;
+}
+
+.links {
+    font-size: 40px;
+    font-weight: 300px;
+}
+
 /* NAVIGATION BAR*/
 
 nav {
