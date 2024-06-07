@@ -16,9 +16,10 @@
 }
 
 .logo a {
+    border: dashed;
     font-size: 35px;
     font-weight: 600;
-    color: brown;
+    color: darkblue;
 }
 
 li {
