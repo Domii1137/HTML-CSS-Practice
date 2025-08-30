@@ -56,13 +56,13 @@ h1 {
 }
 
 .section2 a {
-    background-color: papayawhip;
+    background-color: papayawhip ;
     text-decoration: none;
     color: black;
 }
 
 .section3 {
-    background-color: lawngreen;
+    background-color: gold;
     font-size: 50px;
     display: flex;
     justify-content: center;
