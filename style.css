@@ -101,7 +101,7 @@ a {
 }
 
 .wonder:hover {
-    color: purple;
+    color: green;
     transition: 1ms;
     transform: rotateZ (180deg);
 }
