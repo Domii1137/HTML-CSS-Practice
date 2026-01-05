@@ -101,7 +101,7 @@ a {
 }
 
 .wonder:hover {
-    color: red;
+    color: indigo;
     transition: 1ms;
     transform: rotateZ (180deg);
 }
