@@ -101,7 +101,7 @@ a {
 }
 
 .wonder:hover {
-    color: salmon;
+    color: lime;
     transition: 1ms;
     transform: rotateZ (180deg);
 }
